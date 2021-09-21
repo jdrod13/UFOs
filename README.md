@@ -14,6 +14,7 @@
 
 
 
+
 ### Resources
 
 
@@ -34,8 +35,10 @@
 ## Results
     
    
-   **Our obtained result on our website allowed us to input five different categories to filter the data: date, city, state, country, and shape of the UFO.**
+  **Our obtained result on our website allowed us to input five different categories to filter the data: date, city, state, country, and shape of the UFO.**
  
+
+
 
 
 
@@ -48,7 +51,9 @@
 
 
 
-•	**The website displays all data by representing a well-structured table with UFO's sighting date, city, state, country, shape, duration, and additional comments.
+
+**The website displays all data by representing a well-structured table with UFO's sighting date, city, state, country, shape, duration, and additional comments.**
+
 •	We design our website by using JavaScript and HTML. 
 •	 The user would be required to click on the input boxes. If you enter an incorrect filter or a variable that does not exist in the data, you will get no result displayed. In this case, try again.
 •	To return to the original dataset (without filters included), click on the top left to say UFO Sightings, and the HTML will get redirected.**
